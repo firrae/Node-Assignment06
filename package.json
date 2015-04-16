@@ -4,9 +4,6 @@
   "description": "Assignment 6",
   "main": "./scripts/contacts.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "scripts": {
     "test": "vows --spec --isolate",
     "start": "node ./scripts/contacts.js"
   },
